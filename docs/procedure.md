@@ -41,6 +41,7 @@ You can write them on a chalkboard or post them on sticky notes. Each word shoul
 Students will be able to identify the five parts of a business letter on a sample. 
 
 **Prep time:** ~20 minutes 
+
 **Print:** 
 Text Message Sample (1 copy)
 Business Letter Sample (1 per student)
@@ -101,13 +102,15 @@ Highlighted Business Letter (1 per pair)
 Students will be able to complete a fill-in-the-blank business letter using sentence frames and a word bank. 
 
 **Prep Time:** ~20 minutes
+
 **Print:**
 Fill-in-the-blank Letter (1 per student)
 Sentence Frames and Word Bank (1 per pair)
 
 ### **Warm-up** (15 min)
 1. Distribute a set of word cards containing *sender, recipient, heading, salutation, body, closing, and signature*, with picture cards to each pair.
-2. Ask pairs to match each word to its picture.
+2. Ask pairs to match each word to its picture<img width="1545" height="1999" alt="Your Address (1)" src="https://github.com/user-attachments/assets/4cc67cb8-0c7a-451e-ab4a-d7fd6c2a7c10" />
+.
 3. Display the definitions on the board next to the pictures.
 4. Read each word in English, then in Spanish.
 
@@ -141,6 +144,7 @@ Sentence Frames and Word Bank (1 per pair)
 ![My Screenshot](sentence.png)
 
 ### Fill-in-the-blank-letter
+<img width="1545" height="1999" alt="Your Address (1)" src="https://github.com/user-attachments/assets/6f8a34fa-dd3f-4235-92b5-4a972b464f75" />
 
 
 ## **Day 3: Plan and Write a Request Letter**
