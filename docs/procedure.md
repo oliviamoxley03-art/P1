@@ -109,8 +109,7 @@ Sentence Frames and Word Bank (1 per pair)
 
 ### **Warm-up** (15 min)
 1. Distribute a set of word cards containing *sender, recipient, heading, salutation, body, closing, and signature*, with picture cards to each pair.
-2. Ask pairs to match each word to its picture<img width="1545" height="1999" alt="Your Address (1)" src="https://github.com/user-attachments/assets/4cc67cb8-0c7a-451e-ab4a-d7fd6c2a7c10" />
-.
+2. Ask pairs to match each word to its picture.
 3. Display the definitions on the board next to the pictures.
 4. Read each word in English, then in Spanish.
 
@@ -132,7 +131,7 @@ Sentence Frames and Word Bank (1 per pair)
 2. Explain what a cultural fair is, using photos or drawings.
 3. Write student’s answers on the board, creating a word bank for day 3.
 
-**Expected result:** Every blank is filled, every sentence has a subject (I), and the date is written Month Day, Year.
+**Expected result:** Every blank is filled, every sentence has a clear subject, and the date is written Month Day, Year.
 
 
 ### **Materials For Day 2:**
@@ -151,6 +150,7 @@ Sentence Frames and Word Bank (1 per pair)
 
 ### **Objective:**
  Students will be able to draft, review, and share an original business letter proposing a cultural fair for their school.
+ 
 **Prep time:** ~ 15 minutes 
 
 **Print:** 
