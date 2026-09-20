@@ -140,7 +140,7 @@ Sentence Frames and Word Bank (1 per pair)
 ### Word Bank Brainstorm
 ![My Screenshot](sentence.png)
 
-### Fill-in0the-blank-letter
+### Fill-in-the-blank-letter
 
 
 ## **Day 3: Plan and Write a Request Letter**
