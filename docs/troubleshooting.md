@@ -1,7 +1,7 @@
 # Troubleshooting and Modifications 
 
 
-| **Situation** | **Accomodation** |
+| **Situation** | **Accommodation** |
 | --- | --- | 
 | The class period is shorter than 60 minutes. | Break each day into 2 sections. Rather than a 3 day lesson, the section becomes a longer unit that lasts over a week. There is no rush to finish within the allotted time– each classroom runs at its own pace. |
 | --- | --- |
