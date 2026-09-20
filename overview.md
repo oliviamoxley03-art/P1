@@ -1,42 +1,39 @@
 ## Defining the Business Letter 
 
-The business letter is a formal technical document used for many purposes. Students will use formal communication in their careers, so it is important to understand the conventions and their purpose now and in the future. 
+The business letter is a formal technical document used for many purposes. Students will use formal communication in their careers, so it is important to understand the conventions and their purpose. 
 
-### Letter Type
+### Letter Type:
 
-This guide teaches the request letter– a letter written to ask someone to do something (this request for this lesson is hosting a cultural fair at your school). A request letter differs in purpose, tone, and content from a complaint letter or inquiry letter. 
+This guide teaches the request letter– a letter written to ask someone to do something ( hosting a cultural fair at your school). If you adapt this guide for a complaint or inquiry letter, expect to rewrite the sentence frames and Student Checklist, since those are built around the language of a request letter. 
 
 For the purposes of this lesson, the letter can be split into 5 sections: Heading, Introduction, Body, Conclusion, and Signature. 
 
-If you adapt this guide for a complaint or inquiry letter, expect to rewrite the sentence frames and Student Checklist, since those are built around the language of a request letter. 
+#### **Heading** 
+The heading is the top section of a business letter and includes the sender’s name, address, and date. Additionally, the recipient’s name and address are listed under the sender’s information.
 
+#### **Introduction** 
+The introduction is the opening section of a business letter that greets the recipient and clearly states the purpose of the letter.
 
-### Heading 
-The heading is the top section of a business letter and includes the sender's name, address, and date. Additionally, the recepients name and address are listed under the senders information.
-
-
-### Introduction 
-The introduction is the opening section of a business letter that greets the recepient and clearly states the purpose of the letter.
-
-
-### Body
+#### **Body**
 The body section explains the request in more detail. Supporting information and details are provided.
 
-
-### Conclusion
+#### **Conclusion**
 The conclusion thanks the reader and outlines next steps.
 
+#### **Signature** 
+The signature includes a formal sign-off and the sender’s name.
 
-### Signature 
-The signature includes a formal sign-off and the sender's name.
+**Request letters are written in block format:**
+- Everything is aligned to the left margin
+- Paragraphs are single-spaced, with one line between them
+- The date is written in the Month, Date, Year format
 
 
-## Why This Genre is Difficult For Level 1 and 2 EML Learners
-Students who have only been in the country for one to two years are still building basic paragraph and sentence-level control. A few confusing items for learners are:
+### Why This Genre is Difficult For Level 1 and 2 EML Learners
 
-**Formal Register**– The difference between “I want” and “I am writing to request” is not obvious without prior exposure to formal English.
+Level 1-2 learners are still building basic paragraph and sentence-level control. A few confusing items for learners are:
 
-**Formulaic Language**– business letters lean on fixed phrasing (“I am writing to… I look forward to hearing from you”) A student can know each word of the sentence, but not produce it according to the required structure of a business letter.
+**Formulaic Language**– business letters lean on fixed phrasing (“I am writing to… I look forward to hearing from you”) A student can know each word, but not produce it according to the required structure of a business letter.
 
 **Request Strategies**– English typically softens a request, rather than stating it plainly.
 
@@ -45,7 +42,9 @@ Students who have only been in the country for one to two years are still buildi
 None of this reflects a language deficit– rather it reflects a mismatch between what the genre assumes and what Level 1 and 2 learners have had time to learn.
 
 ### Our Approach 
+We treat the business letter as a formula first and a piece of writing second.
+- Students recognize the five parts (Day 1).
+- Students reproduce the formula with sentence frames, word banks, and visual models (Day 2).
+- Students add original content inside the formula (Days 3–4).
 
-The business letter is treated as a formula first and a piece of writing second. Students learn to recognize the conventions of the business letter in 5 parts before being asked to produce them, then reproduce the formula with heavy scaffolding, including sentence frames, word banks, and visual models.
-
- Their original content falls inside the framework of the established formula. Formatting and tone are taught up front, rather than as background knowledge.
+This guide also allows translanguaging, meaning students may use Spanish to plan, discuss, and use dictionaries, then write the final letter in English.
