@@ -14,7 +14,7 @@ By the end of this unit, students will be able to identify the 5 parts of a busi
 | --- | --- | --- |
 | Copy a short English sentence accurately. | Write "I am a student." on the board. Ask students to copy it on a blank sheet of paper. | Give the student extra time on Day 2. Pair the student with a partner for the fill-in letter. |
 | --- | --- | --- |
-| Use a Spanish–English dictionary. | Ask each student to look up permission in the dictionary. | Model using the dictonary during the Day 1 warm-up. | 
+| Use a Spanish–English dictionary. | Ask each student to look up permission in the dictionary. | Model using the dictionary during the Day 1 warm-up. | 
 | --- | --- | --- |
 
 
