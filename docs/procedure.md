@@ -86,7 +86,7 @@ Highlighted Business Letter (1 per pair)
 
 ### Highlighted Business Letter Key
 
-* **Orange:** Heading
+* **Yellow:** Heading
 * **Green:** Introduction
 * **Blue:** Body
 * **Pink:** Conclusion
