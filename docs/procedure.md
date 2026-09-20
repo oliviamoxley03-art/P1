@@ -106,7 +106,7 @@ Fill-in-the-blank Letter (1 per student)
 Sentence Frames and Word Bank (1 per pair)
 
 ### **Warm-up** (15 min)
-1. Distribute a set of word cards containing sender, recipient, heading, salutation, body, closing, and signature,with picture cards to each pair.
+1. Distribute a set of word cards containing *sender, recipient, heading, salutation, body, closing, and signature*, with picture cards to each pair.
 2. Ask pairs to match each word to its picture.
 3. Display the definitions on the board next to the pictures.
 4. Read each word in English, then in Spanish.
