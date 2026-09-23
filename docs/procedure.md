@@ -205,6 +205,6 @@ Student Checklist (1 per student)
 
 --- 
 
-### Next: **[Troubleshooting](docs/troubleshooting.md)**
+### [← Previous: Overview](overview.md) | [Next: Troubleshooting →](troubleshooting.md)
 
 
