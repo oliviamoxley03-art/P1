@@ -39,8 +39,8 @@ Use these resources to familiarize yourself with Spanish speaking and writing co
 - **[Naatiki Mexico](https://naatikmexico.org/blog/how-to-write-formal-letters-and-emails-in-spanish)How To Write Formal Letters and Emails in Spanish**
   
 #### General Resources 
-- **[Colorin Colorado](https://www.colorincolorado.org)
-- **[More Than Enlish](https://morethanenglish.edublogs.org/padres-de-familia/teachers/)
+- **[Colorin Colorado](https://www.colorincolorado.org)**
+- **[More Than Enlish](https://morethanenglish.edublogs.org/padres-de-familia/teachers/)** 
   
 --- 
 ### Next: **[Overview & Rationale](docs/overview.md)**
