@@ -30,5 +30,6 @@ By the end of Day 3, students will be able to identify the five parts of a busin
 
 **[Sources](docs/sources.md)**- all sources used or referenced to complete this guide
 
+--- 
 ### Next: **[Overview & Rationale](docs/overview.md)**
 
