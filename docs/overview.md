@@ -52,4 +52,4 @@ This guide also allows translanguaging, meaning students may use Spanish to plan
 
 --- 
 
-### Next: **[Lesson Sequence](docs/procedure.md)**
+### [← Previous: README](README.md) | [Next: Procedure→](procedure.md)
