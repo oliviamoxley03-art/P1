@@ -161,7 +161,7 @@ Use the Word Bank Brainstorm to generate vocabulary and ideas for your letters. 
 
 ![My Screenshot](wordbank.png)
 
-**Note:** This sheet is meant to help generate ideas for a word bank. It is a planning tool used to create a class word bank, rather than an independent worksheet. 
+**Teacher Note:** This sheet is meant to help generate ideas for a word bank. It is a planning tool used to create a class word bank, rather than an independent worksheet. 
 
 
 
