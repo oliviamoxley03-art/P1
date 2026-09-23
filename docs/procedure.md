@@ -109,13 +109,13 @@ This document is the answer key for the Guided Practice. Use it to check pairs' 
 ## **Day 2: Using Sentence Frames and Creating a Word Bank**
 
 ### Objective: 
-Students will be able to complete a fill-in-the-blank business letter using sentence frames and a word bank. 
+Students will be able to complete a fill-in-the-blank business letter using sentence frames and a word bank brainstorm sheet. 
 
 **Prep Time:** ~20 minutes
 
 **Print:**
 Fill-in-the-blank Letter (1 per student)
-Sentence Frames and Word Bank (1 per pair)
+Sentence Frames and Word Bank Brainstorm Sheet (1 per pair)
 
 ### **Warm-up** (15 min)
 1. Distribute a set of word cards containing *sender, recipient, heading, salutation, body, closing, and signature*, with picture cards to each pair.
@@ -124,7 +124,7 @@ Sentence Frames and Word Bank (1 per pair)
 4. Read each word in English, then in Spanish.
 
 ### **Direct instruction** (15 min)
-1. Distribute the fill-in-the-blank letters, sentence frames and word bank.
+1. Distribute the fill-in-the-blank letters, sentence frames and word bank brainstorm sheet.
 2. Read the first frame aloud. Ask students to find it in their letter.
 3. Repeat for each part of the letter.
 4. Circle the word I in every sentence. Say, "In English, our letter needs an I."
@@ -147,12 +147,23 @@ Sentence Frames and Word Bank (1 per pair)
 ### **Materials For Day 2:**
 
 ### Sentence Frames by Section
-![My Screenshot](wordbank.png)
 
-### Word Bank Brainstorm
+Use this sheet to help students construct full sentences during the planning and writing phase. 
+
 ![My Screenshot](sentence.png)
 
+### Word Bank Brainstorm
+
+Use the Word Bank Brainstorm to generate ideas for your whole-class word bank. You can write your word bank on your chalkboard, or paper if you prefer. 
+
+![My Screenshot](wordbank.png)
+
+
 ### Fill-in-the-blank-letter
+
+Use this template to help students practice proper letter layout, key vocabulary, and sentence mechanics.
+
+
 <img width="1545" height="1999" alt="Your Address (1)" src="https://github.com/user-attachments/assets/6f8a34fa-dd3f-4235-92b5-4a972b464f75" />
 
 
