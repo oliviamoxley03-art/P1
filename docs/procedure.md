@@ -72,7 +72,8 @@ Highlighted Business Letter (1 per pair)
 1. Call out a part name.
 2. Ask students to point to that part on their sample letter. Repeat for all five parts (10 min).
 3. Read each part name aloud and ask students to repeat it (5 min).
-4. Expected result: At least 80% of students can point to at least 4 of the 5 parts when you name them.
+
+**Expected result:** At least 80% of students can point to at least 4 of the 5 parts when you name them.
 
 
 
