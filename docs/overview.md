@@ -1,5 +1,4 @@
 # Overview
-
 ## Defining the Business Letter 
 
 The business letter is a formal technical document used for many purposes. Students will use formal communication in their careers, so it is important to understand the conventions and their purpose. 
