@@ -19,7 +19,7 @@ By the end of this unit, students will be able to identify the 5 parts of a busi
 | --- | --- | --- |
 
 
-Students do not need to know the parts of a letter, formal vocabulary, or U.S. date and address conventions. 
+Students do not need to know the parts of a letter, formal vocabulary, or specific U.S. date and address conventions before starting this unit. 
 
 ### **What You Need:**
 - Five highlighter colors per student pair: yellow, green, blue, pink, and purple
@@ -34,7 +34,7 @@ Students do not need to know the parts of a letter, formal vocabulary, or U.S. d
 
 - Leave the wall up for the whole unit.
 
-You can write them on a chalkboard or post them on sticky notes. Each word should be accompanied by a single, simple picture. Day 1 teaches formal through comparing and contrasting. Day 2 teaches the other seven definitions.
+You can write them on a chalkboard or post them on sticky notes. Each word should be accompanied by a single, simple picture. Day 1 teaches formal through comparing and contrasting. Day 2 teaches the remaining seven definitions.
 
 ## Day 1: Recognizing the 5 Parts of a Business Letter
 
@@ -88,9 +88,9 @@ This is an informal example for contrast — students should recognize this as *
 This is a formal example of a business letter. This is an unmarked version that students will highlight during Guided Practice. It maps out the 5 parts of a business letter defined in the Overview:
 
 - **Heading** — sender's name, address, and date, followed by the recipient's name and address
-- **Introduction** — greets the recipient and states the purpose
+- **Salutation** — greets the recipient and states the purpose
 - **Body** — explains the request in detail
-- **Conclusion** — thanks the reader and states next steps
+- **Closing** — thanks the reader and states next steps
 - **Signature** — formal sign-off and sender's name
 
 ![Business Letter Sample](bizletter.png)
@@ -99,9 +99,9 @@ This is a formal example of a business letter. This is an unmarked version that 
 This document is the answer key for the Guided Practice. Use it to check pairs' highlighting as your circulate. Each color corresponds to one of the 5 parts above:
 
 * **Yellow:** Heading
-* **Green:** Introduction
+* **Green:** Salutation
 * **Blue:** Body
-* **Pink:** Conclusion
+* **Pink:** Closing
 * **Purple:** Signature
 
 ![Highlighted Business Letter Key](letter.png)
@@ -119,7 +119,7 @@ Fill-in-the-blank Letter (1 per student)
 Sentence Frames and Word Bank Brainstorm Sheet (1 per pair)
 
 ### **Warm-up** (15 min)
-1. Distribute a set of word cards containing *sender, recipient, heading, salutation, body, closing, and signature*, with picture cards to each pair.
+1. Distribute a set of word cards containing the 7 letter part terms *sender, recipient, heading, salutation, body, closing, and signature*, with picture cards to each pair.
 2. Ask pairs to match each word to its picture.
 3. Display the definitions on the board next to the pictures.
 4. Read each word in English, then in Spanish.
