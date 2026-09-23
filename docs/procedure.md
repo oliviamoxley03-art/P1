@@ -172,7 +172,7 @@ Student Checklist (1 per student)
 2. Ask students to show thumbs up (I understand) or thumbs down (I do not).
 3. Ask, "Why is it important to share our cultures?"
 4. Accept answers in Spanish. Restate each in English and write it on the board.
-5. Write Dear, [principal name] on the board. 
+5. Write Dear [principal name], on the board. 
 6. Write the first body paragraph sentence together, using the frame, “I am writing to request permission to…”
 
 ### **Drafting** (25 min)
@@ -194,6 +194,8 @@ Student Checklist (1 per student)
 ### **Expected result:**
  Each letter has all five parts and at least one original detail. 
 
-See *Troubleshooting* for how to handle common struggles without derailing the intended lesson sequence.      
+--- 
+
+### Next: **[Troubleshooting](docs/troubleshooting.md)**
 
 
