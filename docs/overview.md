@@ -6,7 +6,7 @@ The business letter is a formal technical document used for many purposes. Stude
 
 This guide teaches the request letter– a letter written to ask someone to do something ( hosting a cultural fair at your school). If you adapt this guide for a complaint or inquiry letter, expect to rewrite the sentence frames and Student Checklist, since those are built around the language of a request letter. 
 
-For the purposes of this lesson, the letter can be split into 5 sections: Heading, Introduction, Body, Conclusion, and Signature. 
+For the purposes of this lesson, the letter can be split into 5 sections: Heading, Salutation, Body, Closing, and Signature. 
 
 #### **Heading** 
 The heading is the top section of a business letter and includes the sender’s name, address, and date. Additionally, the recipient’s name and address are listed under the sender’s information.
