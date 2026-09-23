@@ -51,4 +51,4 @@ This guide also allows translanguaging, meaning students may use Spanish to plan
 
 --- 
 
-### Next:
+### Next:**[Lesson Sequence](docs/procedure.md)**
