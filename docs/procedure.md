@@ -152,9 +152,12 @@ Use this sheet to help students construct full sentences during the planning and
 
 ### Word Bank Brainstorm
 
-Use the Word Bank Brainstorm to generate ideas for your whole-class word bank. You can write your word bank on your chalkboard, or paper if you prefer. 
+Use the Word Bank Brainstorm to generate vocabulary and ideas for your letters. You can write your word bank on your chalkboard, or paper if you prefer. 
 
 ![My Screenshot](wordbank.png)
+
+**Note:** This sheet is meant to help generate ideas for a word bank. It is a planning tool used to create a class word bank, rather than an independent worksheet. 
+
 
 
 ### Fill-in-the-blank-letter
