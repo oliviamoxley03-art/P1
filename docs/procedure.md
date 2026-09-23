@@ -75,7 +75,7 @@ Students will be able to identify the five parts of a business letter on a sampl
 
 **Expected result:** At least 80% of students can point to at least 4 of the 5 parts when you name them.
 
-
+--- 
 
 ### **Materials For Day 1:**
 
@@ -106,6 +106,7 @@ This document is the answer key for the Guided Practice. Use it to check pairs' 
 
 ![Highlighted Business Letter Key](letter.png)
 
+--- 
 
 ## **Day 2: Using Sentence Frames and Creating a Word Bank**
 
@@ -146,6 +147,7 @@ Students will be able to complete a fill-in-the-blank business letter using sent
 
 **Expected result:** Every blank is filled, every sentence has a clear subject, and the date is written Month Day, Year.
 
+--- 
 
 ### **Materials For Day 2:**
 
@@ -164,7 +166,6 @@ Use the Word Bank Brainstorm to generate vocabulary and ideas for your letters. 
 **Teacher Note:** This sheet is meant to help generate ideas for a word bank. It is a planning tool used to create a class word bank, rather than an independent worksheet. 
 
 
-
 ### Fill-in-the-blank-letter
 
 Use this template to help students practice proper letter layout, key vocabulary, and sentence mechanics.
@@ -172,6 +173,7 @@ Use this template to help students practice proper letter layout, key vocabulary
 
 <img width="1545" height="1999" alt="Your Address (1)" src="https://github.com/user-attachments/assets/6f8a34fa-dd3f-4235-92b5-4a972b464f75" />
 
+--- 
 
 ## **Day 3: Plan and Write a Request Letter**
 
