@@ -86,11 +86,11 @@ This is an informal example for contrast — students should recognize this as *
 ### Business Letter Sample
 This is a formal example of a business letter. This is an unmarked version that students will highlight during Guided Practice. It maps out the 5 parts of a business letter defined in the Overview:
 
-- Heading — sender's name, address, and date, followed by the recipient's name and address
-- Introduction — greets the recipient and states the purpose
-- Body — explains the request in detail
-- Conclusion — thanks the reader and states next steps
-- Signature — formal sign-off and sender's name
+- **Heading** — sender's name, address, and date, followed by the recipient's name and address
+- **Introduction** — greets the recipient and states the purpose
+- **Body** — explains the request in detail
+- **Conclusion** — thanks the reader and states next steps
+- **Signature** — formal sign-off and sender's name
 
 ![Business Letter Sample](bizletter.png)
 
