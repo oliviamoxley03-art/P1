@@ -1,4 +1,5 @@
 # Lesson Sequence
+**Jump to:** [Day 1](#day-1-recognizing-the-5-parts-of-a-business-letter) | [Day 2](#day-2-using-sentence-frames-and-creating-a-word-bank) | [Day 3](#day-3-plan-and-write-a-request-letter)
 
 ### **Who This Lesson Is For:** Teachers of Level 1 and 2 EML students
 
