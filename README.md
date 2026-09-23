@@ -19,10 +19,10 @@ By the end of Day 3, students will be able to identify the five parts of a busin
 
 ### What’s Inside 
 
-**[Overview & Rationale](docs/overview.md)** defining the business letter and barriers for learners 
+**[Overview](docs/overview.md)** defining the business letter and barriers for learners 
 
 
-**[Lesson Sequence](docs/procedure.md)**– a 3-day, ready-to-teach sequence
+**[Procedure](docs/procedure.md)**– a 3-day, ready-to-teach lesson sequence
 
 **[Troubleshooting](docs/troubleshooting.md)**– specific student struggles and how to address them
 
