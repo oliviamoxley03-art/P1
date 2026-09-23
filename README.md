@@ -43,5 +43,5 @@ Use these resources to familiarize yourself with Spanish speaking and writing co
 - **[More Than Enlish](https://morethanenglish.edublogs.org/padres-de-familia/teachers/)** 
   
 --- 
-### Next: **[Overview & Rationale](docs/overview.md)**
+### Next: **[Overview](docs/overview.md)**
 
