@@ -46,7 +46,7 @@ None of this reflects a language deficit– rather it reflects a mismatch betwee
 We treat the business letter as a formula first and a piece of writing second.
 - Students recognize the five parts (Day 1).
 - Students reproduce the formula with sentence frames, word banks, and visual models (Day 2).
-- Students add original content inside the formula (Days 3–4).
+- Students add original content inside the formula (Day 3).
 
 This guide also allows translanguaging, meaning students may use Spanish to plan, discuss, and use dictionaries, then write the final letter in English.
 
