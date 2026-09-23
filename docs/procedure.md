@@ -12,9 +12,7 @@ By the end of this unit, students will be able to identify the 5 parts of a busi
 | Students can... | 30-Second Check | If Not |
 | --- | --- | ---- |
 | Write their name and home address in English | Ask each student to write both on an index card or sticky note. | Let the student copy from an ID or a partner's model. Practice during the Day 1 warm-up. |
-| --- | --- | --- |
 | Copy a short English sentence accurately. | Write "I am a student." on the board. Ask students to copy it on a blank sheet of paper. | Give the student extra time on Day 2. Pair the student with a partner for the fill-in letter. |
-| --- | --- | --- |
 | Use a Spanish–English dictionary. | Ask each student to look up permission in the dictionary. | Model using the dictionary during the Day 1 warm-up. | 
 | --- | --- | --- |
 
