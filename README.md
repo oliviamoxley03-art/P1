@@ -30,6 +30,13 @@ By the end of Day 3, students will be able to identify the five parts of a busin
 
 **[Sources](docs/sources.md)**- all sources used or referenced to complete this guide
 
+### Cultural References 
+
+Use these resources to familiarize yourself with Spanish speaking and writing conventions to help students bridge native language concepts to English business letter formats.
+
+- **[Writing Business and Personal Letters in Spanish](https://www.thoughtco.com/business-and-personal-letters-in-spanish-3080297)** (ThoughtCo)
+- **
+
 --- 
 ### Next: **[Overview & Rationale](docs/overview.md)**
 
