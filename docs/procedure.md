@@ -42,7 +42,9 @@ Students will be able to identify the five parts of a business letter on a sampl
 
 **Print:** 
 Text Message Sample (1 copy)
+
 Business Letter Sample (1 per student)
+
 Highlighted Business Letter (1 per pair)
 
 ### **Warm-up** (15 min)
