@@ -48,3 +48,7 @@ We treat the business letter as a formula first and a piece of writing second.
 - Students add original content inside the formula (Days 3–4).
 
 This guide also allows translanguaging, meaning students may use Spanish to plan, discuss, and use dictionaries, then write the final letter in English.
+
+--- 
+
+### Next:
