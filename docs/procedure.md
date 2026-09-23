@@ -41,6 +41,7 @@ Students will be able to identify the five parts of a business letter on a sampl
 **Prep time:** ~20 minutes 
 
 **Print:** 
+
 Text Message Sample (1 copy)
 
 Business Letter Sample (1 per student)
