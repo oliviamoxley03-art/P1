@@ -11,17 +11,18 @@ For the purposes of this lesson, the letter can be split into 5 sections: Headin
 #### **Heading** 
 The heading is the top section of a business letter and includes the sender’s name, address, and date. Additionally, the recipient’s name and address are listed under the sender’s information.
 
-#### **Introduction** 
-The introduction is the opening section of a business letter that greets the recipient and clearly states the purpose of the letter.
+#### **Salutation** 
+The salutation is the opening section of a business letter that greets the recipient and clearly states the purpose of the letter.
 
 #### **Body**
 The body section explains the request in more detail. Supporting information and details are provided.
 
-#### **Conclusion**
-The conclusion thanks the reader and outlines next steps.
+#### **Closing**
+The closing thanks the reader and outlines next steps.
 
 #### **Signature** 
 The signature includes a formal sign-off and the sender’s name.
+
 
 **Request letters are written in block format:**
 - Everything is aligned to the left margin
