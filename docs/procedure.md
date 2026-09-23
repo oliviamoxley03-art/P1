@@ -42,11 +42,11 @@ Students will be able to identify the five parts of a business letter on a sampl
 
 **Print:** 
 
-Text Message Sample (1 copy)
+- Text Message Sample (1 copy)
 
-Business Letter Sample (1 per student)
+- Business Letter Sample (1 per student)
 
-Highlighted Business Letter (1 per pair)
+- Highlighted Business Letter (1 per pair)
 
 ### **Warm-up** (15 min)
 1. Place the text message and Business Letter Sample side by side on the board.
@@ -116,9 +116,9 @@ Students will be able to complete a fill-in-the-blank business letter using sent
 
 **Print:**
 
-Fill-in-the-blank Letter (1 per student)
+- Fill-in-the-blank Letter (1 per student)
 
-Sentence Frames and Word Bank Brainstorm Sheet (1 per pair)
+- Sentence Frames and Word Bank Brainstorm Sheet (1 per pair)
 
 ### **Warm-up** (15 min)
 1. Distribute a set of word cards containing the 7 letter part terms *sender, recipient, heading, salutation, body, closing, and signature*, with picture cards to each pair.
@@ -182,9 +182,10 @@ Use this template to help students practice proper letter layout, key vocabulary
 
 **Print:** 
 
-Student Checklist (1 per student)
+- Student Checklist (1 per student)
+- Lined Paper (1 per student)
 
-**Teacher Note:** Have lined paper ready.
+**Teacher Note:** You may opt to use notebook paper instead of printing lined paper.
 
 ### **Warm-up** (15 min)
 1. Read each Student Checklist item aloud.
