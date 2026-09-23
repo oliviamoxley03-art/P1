@@ -35,7 +35,7 @@ By the end of Day 3, students will be able to identify the five parts of a busin
 Use these resources to familiarize yourself with Spanish speaking and writing conventions to help students bridge native language concepts to English business letter formats.
 
 - **[Writing Business and Personal Letters in Spanish](https://www.thoughtco.com/business-and-personal-letters-in-spanish-3080297)** (ThoughtCo)
-- **
+- **[Colorin Colorado](https://www.colorincolorado.org)
 
 --- 
 ### Next: **[Overview & Rationale](docs/overview.md)**
