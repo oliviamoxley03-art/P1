@@ -115,7 +115,9 @@ Students will be able to complete a fill-in-the-blank business letter using sent
 **Prep Time:** ~20 minutes
 
 **Print:**
+
 Fill-in-the-blank Letter (1 per student)
+
 Sentence Frames and Word Bank Brainstorm Sheet (1 per pair)
 
 ### **Warm-up** (15 min)
@@ -179,8 +181,10 @@ Use this template to help students practice proper letter layout, key vocabulary
 **Prep time:** ~ 15 minutes 
 
 **Print:** 
+
 Student Checklist (1 per student)
- Have lined paper ready.
+
+**Teacher Note:** Have lined paper ready.
 
 ### **Warm-up** (15 min)
 1. Read each Student Checklist item aloud.
