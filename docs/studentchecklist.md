@@ -6,5 +6,4 @@
 
 --- 
 
-### Next: **[Sources](docs/sources.md)**
 ### [← Previous: Troubleshooting](troubleshooting.md) | [Next: Sources →](sources.md)
