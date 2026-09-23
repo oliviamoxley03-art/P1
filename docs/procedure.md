@@ -16,7 +16,7 @@ By the end of this unit, students will be able to identify the 5 parts of a busi
 | Use a Spanish–English dictionary. | Ask each student to look up permission in the dictionary. | Model using the dictionary during the Day 1 warm-up. | 
 
 
-**Note:** Students do not need to know the parts of a letter, formal vocabulary, or specific U.S. date and address conventions before starting this unit. 
+**Teacher Note:** Students do not need to know the parts of a letter, formal vocabulary, or specific U.S. date and address conventions before starting this unit. 
 
 ### **What You Need:**
 - Five highlighter colors per student pair: yellow, green, blue, pink, and purple
