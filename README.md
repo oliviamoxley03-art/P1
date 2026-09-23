@@ -12,7 +12,7 @@ Teachers of middle school classes made up of Spanish-speaking EML students who a
 
 You may be ESL-certified, or a content-area teacher who teaches EML classes This guide assumes a classroom made up entirely of Level 1-2 students whose native language is Spanish.
 
-### What you will accomplish
+### What You Will Accomplish
 
 By the end of Day 3, students will be able to identify the five parts of a business letter and write a short letter asking their principal for permission to host a Cultural Fair.
 
