@@ -10,3 +10,6 @@
   - “The Basic Business Letter // Purdue Writing Lab.” Purdue Writing Lab, 2018, https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/basic_business_letters/index.html.Verner, Susan. 
 
   - “How to Teach Correspondence to Your ESL Students: Writing Personal Letters.” Busy Teacher, 28 June 2011, https://busyteacher.org/6419-how-to-teach-esl-correspondence-personal-letters.html.
+    
+  - “How To Write Letters or Email in Spanish.” ThoughtCo, https://www.thoughtco.com/business-and-personal-letters-in-spanish-3080297. Accessed 24 Sept. 2026.
+  - 
