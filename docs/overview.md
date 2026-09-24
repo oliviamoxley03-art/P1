@@ -7,7 +7,7 @@ The business letter is a formal technical document used for many purposes. Stude
 
 This guide teaches the request letter– a letter written to ask someone to do something ( hosting a cultural fair at your school). If you adapt this guide for a complaint or inquiry letter, expect to rewrite the sentence frames and Student Checklist, since those are built around the language of a request letter. 
 
-For the purposes of this lesson, the letter can be split into 5 sections: Heading, Salutation, Body, Closing, and Signature. 
+For the purposes of this lesson, the letter can be split into 5 sections: *Heading, Salutation, Body, Closing, and Signature.* 
 
 #### **Heading** 
 The heading is the top section of a business letter and includes the sender’s name, address, and date. Additionally, the recipient’s name and address are listed under the sender’s information.
@@ -29,6 +29,8 @@ The signature includes a formal sign-off and the sender’s name.
 - Everything is aligned to the left margin
 - Paragraphs are single-spaced, with one line between them
 - The date is written in the Month, Date, Year format
+
+This guide teaches block format exclusively. Its single left-aligned structure eliminates decisions such as indentation, tabbing, and centered elements, which introduce unnecessary formatting variables for early-stage writers. 
 
 
 ### Why This Genre is Difficult For Level 1 and 2 EML Learners
