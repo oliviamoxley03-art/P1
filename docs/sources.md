@@ -14,3 +14,5 @@
   - “How To Write Letters or Email in Spanish.” ThoughtCo, https://www.thoughtco.com/business-and-personal-letters-in-spanish-3080297. Accessed 24 Sept. 2026.
     
   - Spanish, in. “Na’atik Language & Culture Institute.” Na’atik Language & Culture Institute, 30 Aug. 2024, https://naatikmexico.org/blog/how-to-write-formal-letters-and-emails-in-spanish. Accessed 24 Sept. 2026.
+    
+  - “Colorín Colorado.” Colorín Colorado, Colorín Colorado, 2019, https://www.colorincolorado.org. Accessed 24 Sept. 2026.
