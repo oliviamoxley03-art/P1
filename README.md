@@ -1,16 +1,16 @@
 ## Teaching The Request Business Letter To Level 1 and 2 EML Students 
 
- A three-day, ready-to-teach guide for helping Level 1-2 English learners who speak Spanish to write a short, correctly formatted request letter.
+ A three-day, ready-to-teach guide for helping Level 1 and 2 English learners who speak Spanish to write a short, correctly formatted request letter.
 
 ### The Problem
 
-Most business letter resources are written for native English speakers. This guide serves as a bridge between business writing conventions and Level 1 and 2 EML learners’ unique needs.
+Most business letter resources are written for native English speakers. This guide serves as a bridge between business writing conventions and the unique needs of Level 1 and 2 English Multilingual Learners (EML). 
 
 ### Who This Guide Is For
 
 Teachers of middle school classes made up of Spanish-speaking EML students who are classified as Level 1 or Level 2 learners.
 
-You may be ESL-certified, or a content-area teacher who teaches EML classes This guide assumes a classroom made up entirely of Level 1-2 students whose native language is Spanish.
+You may be ESL-certified, or a content-area teacher who teaches EML classes. This guide assumes a classroom made up entirely of Level 1 or 2 students whose native language is Spanish. Level 1 and Level 2 describe early-stage English proficiency — students at these levels are still building foundational vocabulary and sentence-level control.
 
 ### What You Will Accomplish
 
@@ -20,7 +20,6 @@ By the end of Day 3, students will be able to identify the five parts of a busin
 ### What’s Inside 
 
 **[Overview](docs/overview.md)** defining the business letter and barriers for learners 
-
 
 **[Procedure](docs/procedure.md)**– a 3-day, ready-to-teach lesson sequence
 
