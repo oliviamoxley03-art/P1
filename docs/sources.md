@@ -19,3 +19,7 @@
 - "How To Write Letters or Email in Spanish." *ThoughtCo*, https://www.thoughtco.com/business-and-personal-letters-in-spanish-3080297. Accessed 24 Sept. 2026.
 
 - Verner, Susan. "How to Teach Correspondence to Your ESL Students: Writing Personal Letters." *Busy Teacher*, 28 June 2011, https://busyteacher.org/6419-how-to-teach-esl-correspondence-personal-letters.html.
+
+  --- 
+
+### [← Previous: Student Checklist](../studentchecklist.md)
