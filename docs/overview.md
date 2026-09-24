@@ -51,7 +51,7 @@ We treat the business letter as a formula first and a piece of writing second.
 - Students reproduce the formula with sentence frames, word banks, and visual models (Day 2).
 - Students add original content inside the formula (Day 3).
 
-This guide also allows **translanguaging**[translanguaging](https://wida.wisc.edu/news/guide-translanguaging-classroom), meaning students may use Spanish to plan, discuss, and use dictionaries, then write the final letter in English.
+This guide also allows **[translanguaging](https://wida.wisc.edu/news/guide-translanguaging-classroom),** meaning students may use Spanish to plan, discuss, and use dictionaries, then write the final letter in English.
 
 --- 
 
