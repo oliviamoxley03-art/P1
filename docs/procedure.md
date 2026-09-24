@@ -155,13 +155,13 @@ Students will be able to complete a fill-in-the-blank business letter using sent
 
 Use this sheet to help students construct full sentences during the planning and writing phase. 
 
-![My Screenshot](images/sentence.png)
+![My Screenshot](docs/images/sentence.png)
 
 ### Word Bank Brainstorm
 
 Use the Word Bank Brainstorm to generate vocabulary and ideas for your letters. You can write your word bank on your chalkboard, or paper if you prefer. 
 
-![My Screenshot](images/wordbank.png)
+![My Screenshot](docs/images/wordbank.png)
 
 **Teacher Note:** This sheet is meant to help generate ideas for a word bank. It is a planning tool used to create a class word bank, rather than an independent worksheet. 
 
