@@ -82,7 +82,7 @@ Students will be able to identify the five parts of a business letter on a sampl
 ### Text Message Sample
 This is an informal example for contrast — students should recognize this as *not* the tone or format their letter should have, and be able to say why. 
 
-![My Screenshot](text.png)
+![My Screenshot](images/text.png)
 
 ### Business Letter Sample
 This is a formal example of a business letter. This is an unmarked version that students will highlight during Guided Practice. It maps out the 5 parts of a business letter defined in the Overview:
@@ -93,7 +93,7 @@ This is a formal example of a business letter. This is an unmarked version that 
 - **Closing** — thanks the reader and states next steps
 - **Signature** — formal sign-off and sender's name
 
-![Business Letter Sample](bizletter.png)
+![Business Letter Sample](images/bizletter.png)
 
 ### Highlighted Business Letter Key
 This document is the answer key for the Guided Practice. Use it to check pairs' highlighting as your circulate. Each color corresponds to one of the 5 parts above:
@@ -104,7 +104,7 @@ This document is the answer key for the Guided Practice. Use it to check pairs' 
 * **Pink:** Closing
 * **Purple:** Signature
 
-![Highlighted Business Letter Key](letter.png)
+![Highlighted Business Letter Key](images/letter.png)
 
 --- 
 
@@ -155,13 +155,13 @@ Students will be able to complete a fill-in-the-blank business letter using sent
 
 Use this sheet to help students construct full sentences during the planning and writing phase. 
 
-![My Screenshot](sentence.png)
+![My Screenshot](images/sentence.png)
 
 ### Word Bank Brainstorm
 
 Use the Word Bank Brainstorm to generate vocabulary and ideas for your letters. You can write your word bank on your chalkboard, or paper if you prefer. 
 
-![My Screenshot](wordbank.png)
+![My Screenshot](images/wordbank.png)
 
 **Teacher Note:** This sheet is meant to help generate ideas for a word bank. It is a planning tool used to create a class word bank, rather than an independent worksheet. 
 
