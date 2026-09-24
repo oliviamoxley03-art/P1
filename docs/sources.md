@@ -22,4 +22,4 @@
 
   --- 
 
-### [← Previous: Student Checklist](docs/studentchecklist.md)
+### [← Previous: Student Checklist](studentchecklist.md)
